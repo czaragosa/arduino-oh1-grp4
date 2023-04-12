@@ -1,5 +1,5 @@
 void setup() {
-  // Cyanna code
+  // Cyana code
   int C4 = 262
   
   // Randy code
