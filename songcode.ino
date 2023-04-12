@@ -2,7 +2,7 @@ void setup() {
   // Cyanna code
   int C4 = 262
   
-  // Randy code
+  // Randee code
   int D4 = 455
   
 }
