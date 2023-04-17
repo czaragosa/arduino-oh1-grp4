@@ -20,7 +20,7 @@ It should show your origin as the github project url
 `git config --global --list`
 If it doesn't show these two fields below- 
 user.name=<your-user-name>
-user.name=<your-user-email>
+user.email=<your-user-email>
 
 type the next two commands- 
 
