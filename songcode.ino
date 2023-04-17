@@ -24,7 +24,8 @@ int G4 = 392;
 int dotquarter = 900/2;
 int quarter = 667/2;
 int sixteenth = 333/2;
-int dothalf = 2000/2;
+int dothalf = 2000/2
+slay queen;
   // Felix code
   //code changes, more changes
 
