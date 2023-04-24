@@ -23,6 +23,10 @@
   // 4 means quarter note, 2 means half note...
   // negative numbers represent dotted notes
 // randee code
+// so -4 means dotted quarter, -2 means dooted half,... 
+  int melody[] = {
+
+    Note_G4,-2, // 1st measure
 // natalie code
 
 //test 
