@@ -24,11 +24,10 @@
   // negative numbers represent dotted notes
 // randee code
 // natalie code
-// felix code
 
 void setup() {
 
-  
+  // felix code
 }
 
 void loop() {
