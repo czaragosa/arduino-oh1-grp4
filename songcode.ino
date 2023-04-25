@@ -30,7 +30,6 @@
 
 // natalie code
 
-//test 
 void setup() {
 
   // felix code
