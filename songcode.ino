@@ -22,6 +22,7 @@
   // notes of the melody followed by the duration.
   // 4 means quarter note, 2 means half note...
   // negative numbers represent dotted notes
+  
 // randee code
 // natalie code
 
