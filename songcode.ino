@@ -32,8 +32,26 @@
 void setup() {
 
   // felix code
+   divider = melody[thisNote + 1];
+    if (divider > 0) {
+      // regula note, just proceed
+      noteDuration = (wholenote) / divider;
+    } else if (divider < 0) {
+      // dotted note are represented with negative durations
+      noteDuration = (wholenote) / abs(divider);
+      noteDuration *= 1.5; // increases the duration in half for dotted notes
+    }  
+    //w we only play note for 90% of duration, leaving 10% as pause
+    tone(buzzer, melody[thisNote], noteDuration*0.9);
+
+    // wait for the specific duration before playing note
+    delay(noteDuration);
+
+    // stop the waveform generation before next note
+    noTone(buzzer);  
+    }
 }
 
 void loop() {
-
+// no need to repeat the melody
 }
