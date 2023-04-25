@@ -23,12 +23,15 @@
   // 4 means quarter note, 2 means half note...
   // negative numbers represent dotted notes
 // randee code
+
+// so -4 means dotted quarter, -2 means dooted half,... 
+  int melody[] = {
+
 // natalie code
-// felix code
 
 void setup() {
 
-  
+  // felix code
 }
 
 void loop() {
