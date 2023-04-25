@@ -24,6 +24,10 @@
   // negative numbers represent dotted notes
   
 // randee code
+
+// so -4 means dotted quarter, -2 means dooted half,... 
+  int melody[] = {
+
 // natalie code
 
 //test 
