@@ -23,6 +23,29 @@
   // 4 means quarter note, 2 means half note...
   // negative numbers represent dotted notes
 // randee code
+  int melody[] = {
+
+    Note_G4,-2, // 1st measure
+    Note_G4,-2,
+    Note_G4,-2,
+    Note_B4,4, Note_A4,4, Note_G4,4, // line 1
+    Note_G4,-2, 
+    Note_G4,-2,
+    Note_G4,-2,
+    Note_D5,4, Note_C5,4, Note_B4,4, // line 2
+    Note_G4,-2,
+    Note_D5,4, Note_C5,4, Note_B4,4,
+    Note_A4,2, Note_B4,4,
+    Note_FS4,2, Note_G4,4, // line 3, 
+    //repeat first 3 lines
+    Note_G4,-2, // 1st measure
+    Note_G4,-2,
+    Note_G4,-2,
+    Note_B4,4, Note_A4,4, Note_G4,4, // line 1
+    Note_G4,-2, 
+    Note_G4,-2,
+    Note_G4,-2,
+    Note_D5,4, Note_C5,4, Note_B4,4, // line 2
 
 // so -4 means dotted quarter, -2 means dooted half,... 
   int melody[] = {
