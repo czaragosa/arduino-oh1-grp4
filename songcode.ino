@@ -73,6 +73,8 @@ void setup() {
 
     // calculates the duration of each note
 
+  // felix code
+  
 
 void loop() {
 
