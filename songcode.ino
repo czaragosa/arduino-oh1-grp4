@@ -73,7 +73,11 @@ void setup() {
 
 
 void loop() {
+// iterate over the notes of the melody.
+  // Remember, the array is twice the number of notes (notes + durations)
+  for (int thisNote = 0; thisNote < notes * 2; thisNote = thisNote + 2) {
 
+    // calculates the duration of each note
 }
 
 
