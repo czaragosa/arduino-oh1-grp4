@@ -49,6 +49,22 @@
 
 // natalie code
 
+    Note_G4,-2,
+    Note_D5,4, Note_C5,4, Note_B4,4,
+    Note_A4,2, Note_B4,4,
+    Note_FS4,2, Note_G4,4, // line 3, end repeat
+    Note_G4,-2,  
+   
+  };
+
+  // sizeof gives the number of bytes, each int value is composed of two bytes (16 bits)
+  // there are two values per note (pitch and duration), so for each note there are four bytes
+  int notes = sizeof(melody) / sizeof(melody[0]) / 2;
+
+  // this calculates duration of wholenote in ms
+  int wholenote = (60000 * 4) / tempo;
+
+  int divider = 0, noteDuration = 0;
 
 void setup() {
   
