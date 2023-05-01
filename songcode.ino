@@ -101,7 +101,57 @@
     Note_A3,2, Note_C4,4, //some-
     Note_C4,1, //-how
 
-
+//Natalie Code
+   Rest,4,
+    Note_C5,-2, Note_D5,-2, //one step
+    Note_E5,1, Note_D5,1, //clo-ser
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4, //I have died everday
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-4, //waiting for you
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4,
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-8, Note_B3,-16, Note_B3,-16, //I have loved you for a
+    Note_E4,-2, Note_D4,-8, //thousand
+    Note_G3,-4, Note_B3,-8, Note_B3,-8, Note_B3,-8, Note_C4,-16, Note_B3,-16, //years  I'll love you for a
+    Note_E4,-4, Note_D4,-4, //thou-sand
+    Note_C4,-4, Note_D4,-4, // more and
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4, // all along I believed
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-4, //I would find you
+    Note_D4,-8, Note_F4,-16, Note_D4,-8, Note_D4,-16, Note_D4,-8, Note_F4,-16, Note_D4,4, //time has brought your heart to me
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-8, Note_B3,-16, Note_B3,-16, //I have loved you for a
+    Note_E4,-2, Note_D4,-8, //thou-sand
+    Note_G3,-4, Note_B3,-8, Note_B3,-8, Note_B3,-8, Note_C4,-16, Note_B3,-16, //years. I love you for a
+    Note_E4,-4, Note_D4,-4, //thou-sand
+    Note_F4,-2, //more.
+    Rest,-4, Note_Bb4,-4,
+    Note_A4,-4, Note_F4,-4,
+    Note_D4,-4, Note_Bb4,-4,
+    Note_A4,-4, Note_D4,-4,
+    Note_E4,-4, Note_C5,-4,
+    Note_Bb4,-4, Note_F4,-4,
+    Note_E4,-4, Note_D5,-4,
+    Note_C5,-4, Note_E4,-4, //51
+    Rest,1,
+    Note_B3,-4, Note_C4,-4, // One Step
+    Note_D4,-2, //clo-
+    Note_C4,-2, //-ser
+    Rest,1,
+    Note_E4,-4, Note_F4,-4, //one step
+    Note_G4,-2, //clo-
+    Note_F4,-2, //-ser
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4, //I have died everday
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-4, //waiting for you
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4, //darling dont be afraid
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-8, Note_B3,-16, Note_B3,-16, //I have loved you for a
+    Note_E4,-2, Note_D4,-8, //thou-sand
+    Note_G3,-4, Note_B3,-8, Note_B3,-8, Note_B3,-8, Note_C4,-16, Note_B3,-16, //years. I love you for a
+    Note_E4,-4, Note_D4,-4, //thou-sand
+    Note_C4,-4, Note_D4,-4, //more and
+    Note_D4,-8, Note_F4,-16, Note_D4,4, Note_D4,-8, Note_F4,-16, Note_D4,4, // all along I believed
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-4, //I would find you
+    Note_D4,-8, Note_F4,-16, Note_D4,-8, Note_D4,-16, Note_D4,-8, Note_F4,-16, Note_D4,4, //time has brought your heart to me
+    Note_G4,-4, Note_F4,-8, Note_D4,-8, Note_B3,-8, Note_B3,-16, Note_B3,-16, //I have loved you for a
+    Note_E4,-2, Note_D4,-8, //thou-sand
+    Note_G3,-4, Note_B3,-8, Note_B3,-8, Note_B3,-8, Note_C4,-16, Note_B3,-16, //years. I love you for a
+    
      // Felix Code
     Note_E4,-4, Note_D4,-4, //thou-sand
     Note_C4,-2, //more.
